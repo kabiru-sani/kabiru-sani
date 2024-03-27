@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kabiru-sani
-- 👀 I’m interested in meeting people to learn from and share ideas.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects
+I code with Laravel
 - 📫 Reach me via email; kabirusani007@gmail.com
 
 <!---
